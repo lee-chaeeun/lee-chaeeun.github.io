@@ -1,9 +1,61 @@
+<!DOCTYPE html>
 <html>
-
+<head>
+	<title>Stuttgarter Kataster</title>
+	<style>
+		body {
+			background-color: #FFFFFF;
+			font-family: Arial, sans-serif;
+			text-align: center;
+			margin: 0;
+			padding: 0;
+		}
+		.title {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			height: 150px;
+			background-color: #FFFFFF;
+			color: #1C1C1C;
+			font-size: 36px;
+			font-weight: bold;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			padding: 0 20px;
+		}
+		.title a {
+			color: #1C1C1C;
+			text-decoration: none;
+			font-size: 16px;
+			font-weight: normal;
+			margin-left: 20px;
+		}
+		.title a:hover {
+			text-decoration: underline;
+		}
+		.title span {
+			background-color: #FFFFFF;
+			padding: 0 30px;
+			line-height: 1.5;
+		}
+		.title:before,
+		.title:after {
+			content: "";
+			flex: 1;
+			height: 1px;
+			background-color: #1C1C1C;
+			margin: 0 20px;
+		}
+	</style>
+</head>
 <body>
-  <h1>Welcome to Ben's World</h1>
-  <p>Welcome to my website! It's me, Ben!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+	<div class="title">
+		<span>Stuttgarter Kataster</span>
+		<a href="info.html">Info</a>
+	</div>  
+ <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
-
 </html>
+
+
+

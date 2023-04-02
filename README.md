@@ -36,7 +36,10 @@ Fügen Sie einfach mehr davon hinzu und ändern Sie den Pfad zur Fotodatei, soda
 	</div>
 ```
 
-*photos/generator.sh
+* photos/generator.sh
+
+Laden Sie diese Datei herunter und bearbeiten Sie sie auf Ihrem Computer.
+
 ```
 #!/bin/bash
 

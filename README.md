@@ -5,7 +5,7 @@ Das Ziel dieses Repositories ist es, eine Website zu erstellen, auf der eine Gal
 
 (Ein Geschenk für Künstlerfreunde, für die die Künstlerische Gestaltung der Website möglicherweise nicht ausreicht, aber ich habe mein Bestes gegeben. Vielleicht nicht das Beste, aber über dem Durchschnitt hoffentlich.)
 
-Das Repository ist organisiert in die Folgende Art:
+### Das Repository ist organisiert in die Folgende Art:
 
 Hauptseite der Website:
 *index.html 
@@ -16,6 +16,8 @@ Inforomationseite der Website:
 Fotos und entsprechender Code befinden sich hier:
 *photos/photo#.html 
 *photos/files/photo#.png
+
+### Erweiterung Des Websites
 
 Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgenden Codes einzubeziehen:
 *index.html 

@@ -105,7 +105,7 @@ do
 done
 
 ```
-Im obigen Code ändern Sie einfach die erste Zeile `for i in {2..8}` so, dass sie der Anzahl der von Ihnen hochzuladenden Fotos entspricht.
+Im Code ändern Sie einfach die erste Zeile `for i in {2..8}` so, dass sie der Anzahl der von Ihnen hochzuladenden Fotos entspricht.
 
 Führen Sie diesen Code aus, indem Sie Folgendes in Ihr Terminal eingeben: `bash generator.sh`
 Dies wird weitere Dateien generieren, die Webseiten für das entsprechende Foto erstellen werden.

@@ -9,22 +9,22 @@ Das Ziel dieses Repositories ist es, eine Website zu erstellen, auf der eine Gal
 
 Hauptseite der Website:
 
-*index.html 
+* index.html 
 
 Inforomationseite der Website:
 
-*info.html 
+* info.html 
 
 Fotos und entsprechender Code befinden sich hier:
 
-*photos/photo#.html 
-*photos/files/photo#.png
+* photos/photo#.html 
+* photos/files/photo#.png
 
 ### Erweiterung Des Websites
 
 Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgenden Codes einzubeziehen:
 
-*index.html 
+* index.html 
 
 Fügen Sie einfach mehr davon hinzu und ändern Sie den Pfad zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
 ```
@@ -109,7 +109,7 @@ Im obigen Code ändern Sie einfach die erste Zeile `for i in {2..8}` so, dass si
 
 Führen Sie diesen Code aus, indem Sie Folgendes in Ihr Terminal eingeben: `bash generator.sh`
 Dies wird weitere Dateien generieren, die Webseiten für das entsprechende Foto erstellen werden.
-Laden Sie den generierten Code in den Ordner "Fotos" hoch.
+Laden Sie den generierten Code in den Ordner "Photos" hoch.
 
 
 

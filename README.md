@@ -28,7 +28,7 @@ Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgend
 * index.html 
 * index2.html 
 
-Fügen Sie einfach mehr davon hinzu und ändern Sie den Code zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
+1. Fügen Sie einfach mehr davon hinzu und ändern Sie den Code zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
 ```
 	<div class="container">
 		<a href="photos/photo5.html"><img src="photos/files/photo5.png" alt="Photo 5" class="photo"></a>
@@ -38,9 +38,17 @@ Fügen Sie einfach mehr davon hinzu und ändern Sie den Code zur Fotodatei, soda
 	</div>
 ```
 
+Geben Sie Folgendes in Ihren Computer ein: "bash". Ich habe diesen Code so geschrieben, dass es Ihnen leichter fällt, die oben genannten Änderungen am Code durchzuführen. 
+
+Sie können die Anzahl, die Sie benötigen, ändern. Zum Beispiel können Sie die folgende Zeile im Code ändern, um eine Anzahl zwischen 9 und 20 zu wählen:
+
+`bash container_gen.sh 9 20 > code.html`
+
+Dadurch können Code-snippets generiert werden, sodass Sie nicht jedes einzelne Teil selbst schreiben müssen. Sie finden den Code in "code.html" Es sollte da sein in den Ordner. 
+
 * photos/generator.sh
 
-Laden Sie diese Datei herunter und bearbeiten Sie sie auf Ihrem Computer.
+2. Laden Sie diese Datei herunter und bearbeiten Sie sie auf Ihrem Computer.
 
 ```
 #!/bin/bash
@@ -110,12 +118,18 @@ do
 done
 
 ```
-Im Code ändern Sie einfach die erste Zeile `for i in {2..8}` so, dass sie der Anzahl der von Ihnen hochzuladenden Fotos entspricht.
 
-Führen Sie diesen Code aus, indem Sie Folgendes in Ihr Terminal eingeben: `bash generator.sh`
+3. Um den Code entsprechend der Anzahl Ihrer hochzuladenden Fotos anzupassen, müssen Sie lediglich die erste Zeile des Codes ändern: `for i in {2..8}`. 
 
-Dies wird weitere Dateien generieren, die Webseiten für das entsprechende Foto erstellen werden.
-Laden Sie den generierten Code in den Ordner "Photos" hoch.
+Ersetzen Sie die Zahlen "2" und "8" durch die tatsächliche Anzahl Ihrer Fotos.
+
+Führen Sie den Code aus, indem Sie einfach `bash generator.sh` in Ihr Terminal eingeben. 
+
+Dadurch werden weitere Dateien generiert, die Webseiten für jedes Ihrer Fotos erstellen.
+
+Laden Sie nun den generierten Code in den Ordner "Photos" hoch, damit die erstellten Webseiten dort abgerufen werden können.
+
+
 
 
 

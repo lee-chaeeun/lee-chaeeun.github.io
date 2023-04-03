@@ -135,6 +135,11 @@ Dadurch werden weitere Dateien generiert, die Webseiten für jedes Ihrer Fotos e
 
 Laden Sie nun den generierten Code in den Ordner "Photos" hoch, damit die erstellten Webseiten dort abgerufen werden können.
 
+### Wichtiger Hinweis
+
+1. Wenn du willst Aenderungen machen und du hast eine Fehler gemacht, vergiss nie, dass Github speichert alle Aenderungen. Man kann immer zurueck gehen! 
+
+2. Bash code can geoeffnet werden in Windows, genauso wie in Linux. Du kannst dein Bash code nur rennen, wenn alle Datei ist in dieselbe Ordner, du bist in, in dein Terminal. 
 
 
 

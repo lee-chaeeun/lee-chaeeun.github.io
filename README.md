@@ -27,7 +27,7 @@ Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgend
 
 * index.html 
 
-Fügen Sie einfach mehr davon hinzu und ändern Sie den Pfad zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
+Fügen Sie einfach mehr davon hinzu und ändern Sie den Code zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
 ```
 	<div class="container">
 		<a href="photos/photo5.html"><img src="photos/files/photo5.png" alt="Photo 5" class="photo"></a>
@@ -112,6 +112,7 @@ done
 Im Code ändern Sie einfach die erste Zeile `for i in {2..8}` so, dass sie der Anzahl der von Ihnen hochzuladenden Fotos entspricht.
 
 Führen Sie diesen Code aus, indem Sie Folgendes in Ihr Terminal eingeben: `bash generator.sh`
+
 Dies wird weitere Dateien generieren, die Webseiten für das entsprechende Foto erstellen werden.
 Laden Sie den generierten Code in den Ordner "Photos" hoch.
 

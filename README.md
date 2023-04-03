@@ -119,7 +119,7 @@ done
 
 ```
 
-3. Um den Code entsprechend der Anzahl Ihrer hochzuladenden Fotos anzupassen, müssen Sie lediglich die erste Zeile des Codes ändern: `for i in {2..8}`. 
+Um den Code entsprechend der Anzahl Ihrer hochzuladenden Fotos anzupassen, müssen Sie lediglich die erste Zeile des Codes ändern: `for i in {2..8}`. 
 
 Ersetzen Sie die Zahlen "2" und "8" durch die tatsächliche Anzahl Ihrer Fotos.
 

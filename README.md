@@ -21,6 +21,9 @@ Fotos und entsprechender Code befinden sich hier:
 * photos/photo#.html 
 * photos/files/photo#.png
 
+*** Wo kann man Aenderung machen? ***
+Ich habe die Folgende Kommentare in den Code geschrieben, wo man darf Aenderungen machen. `<! -- HIER KANNST DU AENDERN  -->`
+
 ### Erweiterung Des Websites
 
 Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgenden Codes einzubeziehen:

@@ -10,6 +10,7 @@ Das Ziel dieses Repositories ist es, eine Website zu erstellen, auf der eine Gal
 Hauptseite der Website:
 
 * index.html 
+* index2.html 
 
 Inforomationseite der Website:
 

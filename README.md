@@ -44,11 +44,12 @@ Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgend
 	</div>
 ```
 
-Geben Sie Folgendes in Ihren Computer ein: "bash". Ich habe diesen Code so geschrieben, dass es Ihnen leichter fällt, die oben genannten Änderungen am Code durchzuführen. 
+Geben Sie Folgendes in Ihren Computer ein: `bash container_gen.sh 9 20 > code.html`
 
-Sie können die Anzahl, die Sie benötigen, ändern. Zum Beispiel können Sie die folgende Zeile im Code ändern, um eine Anzahl zwischen 9 und 20 zu wählen:
+Ich habe diesen Code so geschrieben, dass es Ihnen leichter fällt, die oben genannten Änderungen am Code durchzuführen. 
 
-`bash container_gen.sh 9 20 > code.html`
+Sie können die Anzahl, die Sie benötigen, ändern. z.B können Sie die folgende Zeile im Code ändern, um eine Anzahl zwischen 9 und 20 zu wählen:
+
 
 Dadurch können Code-snippets generiert werden, sodass Sie nicht jedes einzelne Teil selbst schreiben müssen. Sie finden den Code in "code.html" Es sollte da sein in den Ordner. 
 

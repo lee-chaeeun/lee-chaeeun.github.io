@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {2..8}
+for i in {2..16} # HIER KANNST DU AENDERN
 do
   # create HTML file with filename "photo<i>.html"
   echo '<!DOCTYPE html>
@@ -97,9 +97,11 @@ do
 	
 	<img src="files/photo'"$i"'.png" alt="Photo '"$i"'" class="photo">
 	
+	<! -- HIER KANNST DU AENDERN  -->
 	<div class="description">
-		<p>ORT /// FUNKTION /// ZEIT</p>
+		<p>ORT /// FUNKTION /// ZEIT</p> <! --schreib deine Beschreibung hier  -->
 	</div>
+	<! -- BIS HIER   -->
 	
 	<script>
 		// Function to toggle background color

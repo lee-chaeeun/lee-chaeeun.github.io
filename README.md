@@ -23,7 +23,9 @@ Fotos und entsprechender Code befinden sich hier:
 
 *** Wo kann man Aenderung machen? ***
 
-Ich habe die Folgende Kommentare in den Code geschrieben, wo man darf Aenderungen machen. `<! -- HIER KANNST DU AENDERN  -->`
+Ich habe die Folgende Kommentare in den Code geschrieben, wo man darf Aenderungen machen. 
+
+`<! -- HIER KANNST DU AENDERN  -->`
 
 ### Erweiterung Des Websites
 

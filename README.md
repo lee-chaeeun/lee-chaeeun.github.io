@@ -26,6 +26,7 @@ Fotos und entsprechender Code befinden sich hier:
 Die Website kann erweitert werden, um weitere Fotos durch Bearbeiten des folgenden Codes einzubeziehen:
 
 * index.html 
+* index2.html 
 
 Fügen Sie einfach mehr davon hinzu und ändern Sie den Code zur Fotodatei, sodass er dem Foto entspricht, das Sie anzeigen möchten.
 ```

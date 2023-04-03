@@ -95,7 +95,7 @@ do
 	
 	<a href="../index.html" class="back-button"><span class="back-arrow">&lt;</span>BACK</a>
 	
-	<img src="files/photo1.png" alt="Photo 1" class="photo">
+	<img src="files/photo'"$i"'.png" alt="Photo '"$i"'" class="photo">
 	
 	<div class="description">
 		<p>ORT /// FUNKTION /// ZEIT</p>
